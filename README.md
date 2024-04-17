@@ -39,5 +39,3 @@ The dataset for this project will be extracted from specific websites relevant t
 2. Perform data analysis and visualization using Jupyter Notebooks or your preferred IDE.
 3. Use the extracted data to create interactive dashboards for visualization and exploration.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
