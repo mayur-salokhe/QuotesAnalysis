@@ -39,3 +39,6 @@ The dataset for this project will be extracted from specific websites relevant t
 2. Perform data analysis and visualization using Jupyter Notebooks or your preferred IDE.
 3. Use the extracted data to create interactive dashboards for visualization and exploration.
 
+## Dashboard Link
+Looker Studio: https://lookerstudio.google.com/s/oToomu0q4XQ
+
